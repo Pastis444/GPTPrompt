@@ -1,2 +1,3 @@
 donne moi des mots métant en relation les mots suivants : [PROMPT]
+Ne donne que des mots au singulier, et seulement un mot par ligne est autorisé (sauf mot composé, exemple: bien-être) !
 Reply in [TARGETLANGUAGE] please !
